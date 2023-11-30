@@ -9,7 +9,6 @@ namespace GuessNumberGame
 {
     public class NumberGenerator
     {
-       
-
+       // this is an empty class. This comment is a test for pushing to github.
     }
 }
